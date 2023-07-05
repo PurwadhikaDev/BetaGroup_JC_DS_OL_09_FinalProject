@@ -6,3 +6,5 @@ d. 4_Data Analytics: Berisi mengenai analisa sehingga didapatkan pemahaman dan r
 e. 5_Model ML_Residential: Berisi mengenai model Machine Learning pada bagian "Residential"
 f. 5_Model ML_Condominium: Berisi mengenai model Machine Learning pada bagaian "Condominium"
 g. 6_Conclusion & Recomendation: Berisi mengenai kesimpulan dan saran
+
+Hasil dari data yang sudah dibersihkan dimasukkan kedalam folder "data_cleaned".
